@@ -14,6 +14,12 @@ export const services = [
     features: ["Hardware Diagnostics", "Software Installation", "Virus Removal", "Data Recovery"]
   },
   {
+    icon: Fridge,
+    title: "Electronic Repair",
+    description: "Quick and reliable mobile device repairs",
+    features: ["Wiring Replacement", "Battery Replacement", "Damage Repair", "Software Issues"]
+  },
+  {
     icon: Smartphone,
     title: "Mobile Repair",
     description: "Quick and reliable mobile device repairs",
